@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<Employees>
+  <Employee>
+    <id>1</id>
+    <employeeName>Alex Smith</employeeName>
+    <job>Manager</job>
+    <monthSalary>60000</monthSalary>
+    <worksDayInMonth>22</worksDayInMonth>
+    <reallyWorksDayInMonth>20</reallyWorksDayInMonth>
+    <finalSalary>54545.4</finalSalary>
+  </Employee>,
+  <Employee>
+    <id>2</id>
+    <employeeName>Linda Johnson</employeeName>
+    <job>Engineer</job>
+    <monthSalary>50000</monthSalary>
+    <worksDayInMonth>22</worksDayInMonth>
+    <reallyWorksDayInMonth>18</reallyWorksDayInMonth>
+    <finalSalary>40909.1</finalSalary>
+  </Employee>,
+  <Employee>
+    <id>3</id>
+    <employeeName>John Williams</employeeName>
+    <job>Designer</job>
+    <monthSalary>45000</monthSalary>
+    <worksDayInMonth>22</worksDayInMonth>
+    <reallyWorksDayInMonth>21</reallyWorksDayInMonth>
+    <finalSalary>47272.7</finalSalary>
+  </Employee>,
+  <Employee>
+    <id>4</id>
+    <employeeName>Karen Brown</employeeName>
+    <job>Developer</job>
+    <monthSalary>55000</monthSalary>
+    <worksDayInMonth>22</worksDayInMonth>
+    <reallyWorksDayInMonth>20</reallyWorksDayInMonth>
+    <finalSalary>50000</finalSalary>
+  </Employee>,
+  <Employee>
+    <id>5</id>
+    <employeeName>Anthony Davis</employeeName>
+    <job>Tester</job>
+    <monthSalary>40000</monthSalary>
+    <worksDayInMonth>22</worksDayInMonth>
+    <reallyWorksDayInMonth>19</reallyWorksDayInMonth>
+    <finalSalary>34545.4</finalSalary>
+  </Employee>,
+  <Employee>
+    <id>6</id>
+    <employeeName>Sarah Miller</employeeName>
+    <job>Manager</job>
+    <monthSalary>62000</monthSalary>
+    <worksDayInMonth>22</worksDayInMonth>
+    <reallyWorksDayInMonth>17</reallyWorksDayInMonth>
+    <finalSalary>47818.2</finalSalary>
+  </Employee>,
+  <Employee>
+    <id>7</id>
+    <employeeName>David Wilson</employeeName>
+    <job>Engineer</job>
+    <monthSalary>49000</monthSalary>
+    <worksDayInMonth>22</worksDayInMonth>
+    <reallyWorksDayInMonth>15</reallyWorksDayInMonth>
+    <finalSalary>33409.1</finalSalary>
+  </Employee>,
+  <Employee>
+    <id>8</id>
+    <employeeName>Mary Jones</employeeName>
+    <job>Designer</job>
+    <monthSalary>46000</monthSalary>
+    <worksDayInMonth>22</worksDayInMonth>
+    <reallyWorksDayInMonth>20</reallyWorksDayInMonth>
+    <finalSalary>41818.2</finalSalary>
+  </Employee>,
+  <Employee>
+    <id>9</id>
+    <employeeName>Paul Moore</employeeName>
+    <job>Developer</job>
+    <monthSalary>56000</monthSalary>
+    <worksDayInMonth>22</worksDayInMonth>
+    <reallyWorksDayInMonth>22</reallyWorksDayInMonth>
+    <finalSalary>56000</finalSalary>
+  </Employee>,
+  <Employee>
+    <id>10</id>
+    <employeeName>Nancy Taylor</employeeName>
+    <job>Tester</job>
+    <monthSalary>41000</monthSalary>
+    <worksDayInMonth>22</worksDayInMonth>
+    <reallyWorksDayInMonth>18</reallyWorksDayInMonth>
+    <finalSalary>33636.4</finalSalary>
+  </Employee>,
+  <Employee>
+    <id>11</id>
+    <employeeName>James Anderson</employeeName>
+    <job>Manager</job>
+    <monthSalary>61000</monthSalary>
+    <worksDayInMonth>22</worksDayInMonth>
+    <reallyWorksDayInMonth>16</reallyWorksDayInMonth>
+    <finalSalary>44363.6</finalSalary>
+  </Employee>,
+  <Employee>
+    <id>12</id>
+    <employeeName>Jennifer Thomas</employeeName>
+    <job>Engineer</job>
+    <monthSalary>48000</monthSalary>
+    <worksDayInMonth>22</worksDayInMonth>
+    <reallyWorksDayInMonth>19</reallyWorksDayInMonth>
+    <finalSalary>41545.4</finalSalary>
+  </Employee>,
+  <Employee>
+    <id>13</id>
+    <employeeName>Robert White</employeeName>
+    <job>Designer</job>
+    <monthSalary>47000</monthSalary>
+    <worksDayInMonth>22</worksDayInMonth>
+    <reallyWorksDayInMonth>21</reallyWorksDayInMonth>
+    <finalSalary>45181.8</finalSalary>
+  </Employee>,
+  <Employee>
+    <id>14</id>
+    <employeeName>Patricia Martin</employeeName>
+    <job>Developer</job>
+    <monthSalary>54000</monthSalary>
+    <worksDayInMonth>22</worksDayInMonth>
+    <reallyWorksDayInMonth>17</reallyWorksDayInMonth>
+    <finalSalary>41727.3</finalSalary>
+  </Employee>,
+  <Employee>
+    <id>15</id>
+    <employeeName>Michael Garcia</employeeName>
+    <job>Tester</job>
+    <monthSalary>42000</monthSalary>
+    <worksDayInMonth>22</worksDayInMonth>
+    <reallyWorksDayInMonth>20</reallyWorksDayInMonth>
+    <finalSalary>38181.8</finalSalary>
+  </Employee>
+</Employees>

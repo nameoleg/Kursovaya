@@ -1,0 +1,139 @@
+{
+ "Employees": [
+    {
+        "id": 1,
+        "employeeName": "Alex Smith",
+        "job": "Manager",
+        "MonthSalary": 60000,
+        "worksDayInMonth": 22,
+        "reallyWorksDayInMonth": 20,
+        "finalSalary": 54545.4
+    },
+    {
+        "id": 2,
+        "employeeName": "Linda Johnson",
+        "job": "Engineer",
+        "MonthSalary": 50000,
+        "worksDayInMonth": 22,
+        "reallyWorksDayInMonth": 18,
+        "finalSalary": 40909.1
+    },
+    {
+        "id": 3,
+        "employeeName": "John Williams",
+        "job": "Designer",
+        "MonthSalary": 45000,
+        "worksDayInMonth": 22,
+        "reallyWorksDayInMonth": 21,
+        "finalSalary": 47272.7
+    },
+    {
+        "id": 4,
+        "employeeName": "Karen Brown",
+        "job": "Developer",
+        "MonthSalary": 55000,
+        "worksDayInMonth": 22,
+        "reallyWorksDayInMonth": 20,
+        "finalSalary": 50000
+    },
+    {
+        "id": 5,
+        "employeeName": "Anthony Davis",
+        "job": "Tester",
+        "MonthSalary": 40000,
+        "worksDayInMonth": 22,
+        "reallyWorksDayInMonth": 19,
+        "finalSalary": 34545.4
+    },
+    {
+        "id": 6,
+        "employeeName": "Sarah Miller",
+        "job": "Manager",
+        "MonthSalary": 62000,
+        "worksDayInMonth": 22,
+        "reallyWorksDayInMonth": 17,
+        "finalSalary": 47818.2
+    },
+    {
+        "id": 7,
+        "employeeName": "David Wilson",
+        "job": "Engineer",
+        "MonthSalary": 49000,
+        "worksDayInMonth": 22,
+        "reallyWorksDayInMonth": 15,
+        "finalSalary": 33409.1
+    },
+    {
+        "id": 8,
+        "employeeName": "Mary Jones",
+        "job": "Designer",
+        "MonthSalary": 46000,
+        "worksDayInMonth": 22,
+        "reallyWorksDayInMonth": 20,
+        "finalSalary": 41818.2
+    },
+    {
+        "id": 9,
+        "employeeName": "Paul Moore",
+        "job": "Developer",
+        "MonthSalary": 56000,
+        "worksDayInMonth": 22,
+        "reallyWorksDayInMonth": 22,
+        "finalSalary": 56000
+    },
+    {
+        "id": 10,
+        "employeeName": "Nancy Taylor",
+        "job": "Tester",
+        "MonthSalary": 41000,
+        "worksDayInMonth": 22,
+        "reallyWorksDayInMonth": 18,
+        "finalSalary": 33636.4
+    },
+    {
+        "id": 11,
+        "employeeName": "James Anderson",
+        "job": "Manager",
+        "MonthSalary": 61000,
+        "worksDayInMonth": 22,
+        "reallyWorksDayInMonth": 16,
+        "finalSalary": 44363.6
+    },
+    {
+        "id": 12,
+        "employeeName": "Jennifer Thomas",
+        "job": "Engineer",
+        "MonthSalary": 48000,
+        "worksDayInMonth": 22,
+        "reallyWorksDayInMonth": 19,
+        "finalSalary": 41545.4
+    },
+    {
+        "id": 13,
+        "employeeName": "Robert White",
+        "job": "Designer",
+        "MonthSalary": 47000,
+        "worksDayInMonth": 22,
+        "reallyWorksDayInMonth": 21,
+        "finalSalary": 45181.8
+    },
+    {
+        "id": 14,
+        "employeeName": "Patricia Martin",
+        "job": "Developer",
+        "MonthSalary": 54000,
+        "worksDayInMonth": 22,
+        "reallyWorksDayInMonth": 17,
+        "finalSalary": 41727.3
+    },
+    {
+        "id": 15,
+        "employeeName": "Michael Garcia",
+        "job": "Tester",
+        "MonthSalary": 42000,
+        "worksDayInMonth": 22,
+        "reallyWorksDayInMonth": 20,
+        "finalSalary": 38181.8
+    }
+  }
+}
